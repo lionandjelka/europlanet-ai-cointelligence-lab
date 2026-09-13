@@ -1,0 +1,39 @@
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Local outputs / caches
+outputs/
+logs/
+exominer_official/outputs/*
+!exominer_official/outputs/.gitkeep
+
+# Keep instructor material local unless deliberately released
+instructor-private/
+instructor/
+INSTRUCTOR_GUIDE.md
+INSTRUCTOR_SETUP.md
+
+# Future large raw data should not be committed directly
+*.h5
+*.hdf5
+*.fits
+*.fits.gz

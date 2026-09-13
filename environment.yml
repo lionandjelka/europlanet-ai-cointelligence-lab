@@ -1,0 +1,15 @@
+name: europlanet-lab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy>=1.26
+  - pandas>=2.1
+  - matplotlib>=3.8
+  - scikit-learn>=1.4
+  - jupyterlab>=4.0
+  - ipykernel>=6.29
+  - nbformat>=5.9
+  - pip:
+      - torch>=2.2

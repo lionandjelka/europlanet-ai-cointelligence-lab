@@ -1,8 +1,14 @@
+# The recommended installation is:
+#
+#   conda env create -f environment.yml
+#
+# PyTorch is intentionally installed through conda-forge in environment.yml
+# to avoid duplicate OpenMP runtimes on macOS.
+
 numpy>=1.26
 pandas>=2.1
 matplotlib>=3.8
 scikit-learn>=1.4
-torch>=2.2
 jupyterlab>=4.0
 ipykernel>=6.29
 nbformat>=5.9

@@ -1,5 +1,5 @@
 # From Signal to Scientific Decision — EUROPLANET AI Co-Intelligence Lab
-
+![Exoplanet Cointelligence](https://img.shields.io/badge/Exoplanet-Cointelligence-6f42c1?style=for-the-badge)
 A 90-minute planetary-science research practical on **information, transit detection, AI vetting, relational inference, uncertainty, and human–AI scientific decision making**.
 
 ## Scientific path

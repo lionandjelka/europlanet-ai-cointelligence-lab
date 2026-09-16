@@ -1,5 +1,15 @@
 # From Signal to Scientific Decision — EUROPLANET AI Co-Intelligence Lab
-![Exoplanet Cointelligence](https://img.shields.io/badge/Exoplanet-Cointelligence-6f42c1?style=for-the-badge)
+![Exoplanet Cointelligence](https://img.shields.io/badge/Exoplanet%20Cointelligence-6C4AB6?style=for-the-badge&logo=planet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-355C7D?style=for-the-badge&logo=python&logoColor=FFD43B)
+![PyTorch](https://img.shields.io/badge/PyTorch-B54A4A?style=for-the-badge&logo=pytorch&logoColor=white)
+![Neural Processes](https://img.shields.io/badge/Neural%20Processes-8E5AA9?style=for-the-badge)
+![Attention](https://img.shields.io/badge/Attention-5B6FAF?style=for-the-badge)
+![ExoMiner](https://img.shields.io/badge/ExoMiner-2E7D8A?style=for-the-badge)
+![Panopticon](https://img.shields.io/badge/Panopticon-394867?style=for-the-badge)
+![Exoplanets](https://img.shields.io/badge/Exoplanets-5B4B8A?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9C6ADE?style=for-the-badge)
+
+
 A 90-minute planetary-science research practical on **information, transit detection, AI vetting, relational inference, uncertainty, and human–AI scientific decision making**.
 
 ## Scientific path

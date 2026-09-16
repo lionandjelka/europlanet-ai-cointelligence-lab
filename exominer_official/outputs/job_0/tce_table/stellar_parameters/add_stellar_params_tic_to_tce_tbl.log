@@ -1,0 +1,70 @@
+2026-09-15 08:27:04,845 - Starting run...
+2026-09-15 08:27:04,845 - Using stellar parameters from the TESS SPOC DV XML files...
+2026-09-15 08:27:04,846 - Stellar mass is not avaialble in TESS SPOC DV XML files. Setting it to missing value...
+2026-09-15 08:27:04,847 - Missing values before updating stellar parameters with TIC
+2026-09-15 08:27:04,848 - tce_steff: 0
+2026-09-15 08:27:04,848 - tce_steff_err: 0
+2026-09-15 08:27:04,848 - tce_slogg: 0
+2026-09-15 08:27:04,848 - tce_slogg_err: 0
+2026-09-15 08:27:04,848 - tce_sradius: 0
+2026-09-15 08:27:04,848 - tce_sradius_err: 0
+2026-09-15 08:27:04,849 - tce_smet: 0
+2026-09-15 08:27:04,849 - tce_smet_err: 0
+2026-09-15 08:27:04,849 - tce_sdens: 0
+2026-09-15 08:27:04,849 - tce_sdens_err: 0
+2026-09-15 08:27:04,850 - mag: 0
+2026-09-15 08:27:04,850 - mag_err: 0
+2026-09-15 08:27:04,850 - ra: 0
+2026-09-15 08:27:04,850 - dec: 0
+2026-09-15 08:27:04,851 - Missing values after updating stellar parameters with TIC
+2026-09-15 08:27:04,852 - tce_steff: 0
+2026-09-15 08:27:04,852 - tce_steff_err: 0
+2026-09-15 08:27:04,852 - tce_slogg: 0
+2026-09-15 08:27:04,853 - tce_slogg_err: 0
+2026-09-15 08:27:04,853 - tce_sradius: 0
+2026-09-15 08:27:04,853 - tce_sradius_err: 0
+2026-09-15 08:27:04,853 - tce_smet: 0
+2026-09-15 08:27:04,853 - tce_smet_err: 0
+2026-09-15 08:27:04,853 - tce_sdens: 0
+2026-09-15 08:27:04,854 - tce_sdens_err: 0
+2026-09-15 08:27:04,854 - mag: 0
+2026-09-15 08:27:04,854 - mag_err: 0
+2026-09-15 08:27:04,854 - ra: 0
+2026-09-15 08:27:04,854 - dec: 0
+2026-09-15 08:27:04,854 - tce_smass: 1
+2026-09-15 08:27:04,855 - tce_smass_err: 1
+2026-09-15 08:27:26,472 - Starting run...
+2026-09-15 08:27:26,473 - Using stellar parameters from the TESS SPOC DV XML files...
+2026-09-15 08:27:26,473 - Stellar mass is not avaialble in TESS SPOC DV XML files. Setting it to missing value...
+2026-09-15 08:27:26,476 - Missing values before updating stellar parameters with TIC
+2026-09-15 08:27:26,477 - tce_steff: 0
+2026-09-15 08:27:26,477 - tce_steff_err: 0
+2026-09-15 08:27:26,477 - tce_slogg: 0
+2026-09-15 08:27:26,477 - tce_slogg_err: 0
+2026-09-15 08:27:26,478 - tce_sradius: 0
+2026-09-15 08:27:26,478 - tce_sradius_err: 0
+2026-09-15 08:27:26,478 - tce_smet: 0
+2026-09-15 08:27:26,478 - tce_smet_err: 0
+2026-09-15 08:27:26,479 - tce_sdens: 0
+2026-09-15 08:27:26,479 - tce_sdens_err: 0
+2026-09-15 08:27:26,479 - mag: 0
+2026-09-15 08:27:26,479 - mag_err: 0
+2026-09-15 08:27:26,480 - ra: 0
+2026-09-15 08:27:26,480 - dec: 0
+2026-09-15 08:27:26,481 - Missing values after updating stellar parameters with TIC
+2026-09-15 08:27:26,482 - tce_steff: 0
+2026-09-15 08:27:26,482 - tce_steff_err: 0
+2026-09-15 08:27:26,482 - tce_slogg: 0
+2026-09-15 08:27:26,483 - tce_slogg_err: 0
+2026-09-15 08:27:26,483 - tce_sradius: 0
+2026-09-15 08:27:26,483 - tce_sradius_err: 0
+2026-09-15 08:27:26,483 - tce_smet: 0
+2026-09-15 08:27:26,483 - tce_smet_err: 0
+2026-09-15 08:27:26,484 - tce_sdens: 0
+2026-09-15 08:27:26,484 - tce_sdens_err: 0
+2026-09-15 08:27:26,484 - mag: 0
+2026-09-15 08:27:26,484 - mag_err: 0
+2026-09-15 08:27:26,485 - ra: 0
+2026-09-15 08:27:26,485 - dec: 0
+2026-09-15 08:27:26,485 - tce_smass: 1
+2026-09-15 08:27:26,485 - tce_smass_err: 1

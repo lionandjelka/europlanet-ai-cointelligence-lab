@@ -1,0 +1,8 @@
+# Description: This table contains auxliary information regarding the TCEs in the difference image data that either did not show up in the TFRecord dataset or could not be added due to an error.
+# TFRecord Directory with Preprocessed Data: /outputs/job_0/tfrecord_data_diffimg
+# Table Filepath: /outputs/job_0/tfrecord_data_diffimg/examples_failed.csv
+# Creation Date: 2026-09-15T08:27:08.546388
+# Created By: src_preprocessing/diff_img/preprocessing/add_data_to_tfrecords.py
+# Source TFRecord Directory: /outputs/job_0/tfrecord_data
+# Difference Image Data Directory: /outputs/job_0/diff_img_preprocessed
+uid,present_in_tfrec,present_in_diffimg,added,reason

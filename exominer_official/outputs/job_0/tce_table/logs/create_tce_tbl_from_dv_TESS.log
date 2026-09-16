@@ -1,0 +1,14 @@
+2026-09-15 08:27:04,816 - Starting run...
+2026-09-15 08:27:04,821 - Excluding target DV XML files with older version numbers. Before: 1
+2026-09-15 08:27:04,821 - After excluding older versions: 1
+2026-09-15 08:27:04,821 - Extracting TCEs from 1 xml files for TESS...
+2026-09-15 08:27:04,821 - Target DV XML file tess2018206190142-s0001-s0001-0000000261136679-00366_dvr.xml (1/1)
+2026-09-15 08:27:04,825 - Found 1 TCEs results in tess2018206190142-s0001-s0001-0000000261136679-00366_dvr.xml
+2026-09-15 08:27:04,838 - Finished extracting 1 TCEs from 1 xml files for tess-spoc-dv_tces_0.csv.
+2026-09-15 08:27:26,445 - Starting run...
+2026-09-15 08:27:26,451 - Excluding target DV XML files with older version numbers. Before: 1
+2026-09-15 08:27:26,451 - After excluding older versions: 1
+2026-09-15 08:27:26,451 - Extracting TCEs from 1 xml files for TESS...
+2026-09-15 08:27:26,452 - Target DV XML file tess2018349182737-s0006-s0006-0000000167526485-00415_dvr.xml (1/1)
+2026-09-15 08:27:26,454 - Found 1 TCEs results in tess2018349182737-s0006-s0006-0000000167526485-00415_dvr.xml
+2026-09-15 08:27:26,464 - Finished extracting 1 TCEs from 1 xml files for tess-spoc-dv_tces_1.csv.

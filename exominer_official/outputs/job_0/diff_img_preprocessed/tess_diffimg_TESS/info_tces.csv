@@ -1,0 +1,7 @@
+# Description: This table contains auxliary information regarding the preprocessing of extracted difference image.
+# Preprocessing Directory: /outputs/job_0/diff_img_preprocessed/tess_diffimg_TESS
+# Table Filepath: /outputs/job_0/diff_img_preprocessed/tess_diffimg_TESS/info_tces.csv
+# Creation Date: 2026-09-15T08:27:08.395707
+# Created By: src_preprocessing/diff_img/preprocessing/preprocess_diff_img.py
+uid,saturated,num_available_sectors,num_valid_sectors,num_sampled_sectors,sampled_sectors,sampled_qmetrics,sampled_sectors_missingvalues
+261136679-1-S1,,1.0,1.0,5.0,[1 1 1 1 1],[0.57559127 0.57559127 0.57559127 0.57559127 0.57559127],no

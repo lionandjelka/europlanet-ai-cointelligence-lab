@@ -1,0 +1,2 @@
+obsID,obs_collection,dataproduct_type,obs_id,description,type,dataURI,productType,productGroupDescription,productSubGroupDescription,productDocumentationURL,project,prvversion,proposal_id,productFilename,size,parent_obsid,dataRights,calib_level,filters
+62252913,TESS,timeseries,tess2018349182500-s0006-0000000167526485-0126-s,Light curves,S,mast:TESS/product/tess2018349182500-s0006-0000000167526485-0126-s_lc.fits,SCIENCE,Minimum Recommended Products,LC,,SPOC,fe43d398af,G011047,tess2018349182500-s0006-0000000167526485-0126-s_lc.fits,1598400,62252913,PUBLIC,3,TESS

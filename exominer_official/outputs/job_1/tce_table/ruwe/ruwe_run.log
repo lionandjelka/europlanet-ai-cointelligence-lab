@@ -1,0 +1,4 @@
+2026-09-15 08:27:26,487 - Starting run...
+2026-09-15 08:27:26,488 - No RUWE catalog/source. Setting RUWE to queried TICs to missing values.
+2026-09-15 08:27:26,490 - Number of TICs without RUWE value: 1 ouf of 1
+2026-09-15 08:27:26,492 - Number of TCEs without RUWE value: 1 ouf of 1

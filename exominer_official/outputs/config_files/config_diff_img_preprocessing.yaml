@@ -1,0 +1,24 @@
+dest_root_dir: null
+diff_img_data_dir: null
+mission: tess
+num_sampled_imgs: 5
+final_size:
+  x: 11
+  y: 11
+resize_images: true
+upscale_f:
+  x: 5
+  y: 5
+tmag_diff_range:
+- -12
+- 12
+n_processes: 1
+plot_prob: 1
+check_exist: false
+top_k: 5
+max_neighbor_distance: 8
+gaussian_att_sigma: 1
+plot_dir: !!python/object/apply:pathlib.PosixPath
+- /
+- outputs
+- plot_inputs_to_model

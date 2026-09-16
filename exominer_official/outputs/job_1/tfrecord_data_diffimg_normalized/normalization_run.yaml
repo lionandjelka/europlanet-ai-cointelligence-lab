@@ -1,0 +1,19 @@
+srcTfrecDir: !!python/object/apply:pathlib.PosixPath
+- /
+- outputs
+- job_1
+- tfrecord_data_diffimg
+destTfrecDir: !!python/object/apply:pathlib.PosixPath
+- /
+- outputs
+- job_1
+- tfrecord_data_diffimg_normalized
+normStats:
+  scalar_params: /data/norm_stats/planet_validation/train_scalarparam_norm_stats.npy
+  centroid: /data/norm_stats/planet_validation/train_centroid_norm_stats.npy
+  diff_img: /data/norm_stats/planet_validation/train_diffimg_norm_stats.npy
+nProcesses: 1
+diff_img_data_shape:
+- 5
+- 55
+- 55
